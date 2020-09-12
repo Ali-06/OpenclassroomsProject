@@ -1,0 +1,1 @@
+192.168.99.1 ESW1 user cisco 1 4 cisco 0 4 fa0/1-v10/v30 fa1/1-v10/30 fa1/2-v10/30 fa1/3-v10/30
