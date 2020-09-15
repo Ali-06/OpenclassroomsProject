@@ -105,7 +105,7 @@ Dans les deux scripts pour accélérer les traitements j'utilise la librairie Py
                      procs.append(my_proc) 
 
 
-![pr6](https://user-images.githubusercontent.com/68608846/92990372-55577980-f4dc-11ea-87ab-66878d8bcc78.JPG)
+
 
 
 ![pr6](https://user-images.githubusercontent.com/68608846/92990372-55577980-f4dc-11ea-87ab-66878d8bcc78.JPG)
